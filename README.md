@@ -12,3 +12,7 @@ top、left、bottom、right
 size
 
 centerX、centerY、maxX、maxY
+
+##Constant.h
+
+提升开发效率的一些便捷常量
